@@ -10,31 +10,31 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6283171382342']
+global.premium = ['6283171382342']
+global.ownernomer = '6283171382342'
+global.ownername = 'Ahok'
+global.botname = 'Garox'
+global.footer = 'Sumanto Cans'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
-global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.sessionName = 'ses'
+global.packname = '0831 7138 2342'
+global.author = 'Save Yah Kak:)'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCN7UO2AOumTSyYlr6XBf2kg'
+global.ig = '-'
+global.mygc = 'https://chat.whatsapp.com/D44oXHDTASU2kZektxTqJY'
+global.myweb = 'https://awogawog.000webhostapp.com'
+global.email = 'obos.dora@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 3,
 }
 
 //---------( RANDOM IMAGE )---------//
